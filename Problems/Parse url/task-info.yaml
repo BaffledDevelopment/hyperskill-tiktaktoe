@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3660
+status: Failed
+feedback:
+  message: "Failed test #1 of 5. Wrong answer\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\nhttps://target.com/index.html?pass=12345&port=8080&cookie=&host=localhost\n\
+    Correct output:\npass : 12345\nport : 8080\ncookie : not found\nhost : localhost\n\
+    password : 12345\n\nYour code output:\n5 \n6 4 \n4 \n5 3 \n3 \n4 2 \n2 \n3 1\n"
+  time: Wed, 12 Aug 2020 14:00:19 UTC
+record: -1
